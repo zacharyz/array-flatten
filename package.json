@@ -1,0 +1,6 @@
+{
+    "name": "array-flatten",
+    "jest": {
+        "verbose": true
+    }
+}
